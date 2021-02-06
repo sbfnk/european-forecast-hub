@@ -12,9 +12,15 @@ hero_media: welcome.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
-advanced:
-  css_style:
-  css_class:
+cta:
+  url: 'visualisation'
+  label: Current forecasts
+  icon_pack: fas
+  icon: chart-line
+cta_alt:
+  url: 'reports'
+  label: 'Latest weekly report'
+
 ---
 
 Short-term forecast of Covid-19 cases and deaths across Europe, created by a multitude of infectious disease modelling teams, coordinated by the [European Centre for Disease Prevention and Control](https://www.ecdc.europa.eu/en).
